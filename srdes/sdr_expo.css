@@ -1,5 +1,5 @@
 header {
-	background-color: orange;
+	background-color: navy;
 	color: white;
 	text-align: center;
 	font-family: "Arial";
@@ -7,6 +7,22 @@ header {
 
 nav {
 	width: 150px;
-	height: 750px;
+	height: 300px;
 	float :left;
+	border: 3px solid navy;
+}
+
+.secondary-text {
+	width: 50%;
+	font-family: "Arial";
+}
+.secondary {
+	color: blue;
+	border: 3px solid navy;
+	margin: 3px;
+	padding: 3px;
+	width: 50%;
+	text-align: center;
+	font-family: "Arial";
+	background-color: yellow;
 }
